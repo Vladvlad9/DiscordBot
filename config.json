@@ -1,0 +1,9 @@
+{
+  "BOT": {
+    "TOKEN": "MTA2NzcyNzkyODQzNzI0ODAwMQ.G7Wr3E.isSS83XdfVoZy8nsqAPrKoVejCdbviX9AntJ-Y",
+    "PREFIX": "/",
+    "ADMINS": [381252111]
+  },
+  "DATABASE": "postgres:postgres@localhost:5432/discordBot"
+
+}
